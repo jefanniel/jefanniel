@@ -9,9 +9,7 @@
 
 
 <p align="center">
-  <a href="https://jefanniel.vercel.app/">
-    <img src="https://i.ibb.co/2nJzFzF/banner-example.png" alt="Visit My Website" width="600"/>
-  </a>
+[![Website](https://img.shields.io/badge/Website-39FF14?style=flat&logo=google-chrome&logoColor=black)](https://jefanniel.vercel.app/)
 </p>
 
 
