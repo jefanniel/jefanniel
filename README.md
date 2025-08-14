@@ -7,12 +7,6 @@
   />
 </p>
 
-
-<p align="center">
-[![Website](https://img.shields.io/badge/Website-39FF14?style=flat&logo=google-chrome&logoColor=black)](https://jefanniel.vercel.app/)
-</p>
-
-
 ---
 
 ## 📌 About Me
