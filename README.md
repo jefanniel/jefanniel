@@ -1,7 +1,7 @@
 # Hi, I'm Jefanniel!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F73B6C&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jefanniel+!;Computer+Science+Student;Machine+Learning+%26+AI;Software+Developer+%7C+Content+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F73B6C&center=true&vCenter=true&width=900&lines=Computer+Science+Student+@+Gunadarma;AI+&+Robotics+Enthusiast;Software+Developer;Content+Creator" />
 </p>
 
 <p align="center">
