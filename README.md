@@ -9,8 +9,11 @@
 
 
 <p align="center">
-  🌐 <a href="[[https://mywebsite.com](https://jefanniel.vercel.app/)](https://jefanniel.vercel.app/)">Visit My Website</a>
+  <a href="https://jefanniel.vercel.app/">
+    <img src="https://i.ibb.co/2nJzFzF/banner-example.png" alt="Visit My Website" width="600"/>
+  </a>
 </p>
+
 
 ---
 
