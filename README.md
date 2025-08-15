@@ -1,102 +1,78 @@
 # Hi there, I'm Jefanniel!
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Computer+Science+Student+@+Gunadarma;AI+Enthusiast;Software+Engineer;Content+Creator" 
-    alt="Typing SVG" 
-  />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Gunadarma;AI+Enthusiast;Software+Engineer;Content+Creator" alt="Typing SVG" />
+    
+  
+  <br>
+    ### 🌐 Visit My Website
+  
+  ### 🌐 Visit My Website
+  [![Website](https://img.shields.io/badge/🚀%20jefanniel.com-4285F4?style=for-the-badge&logoColor=white)](https://jefanniel.vercel.app/)
+
+</div>
+
+
+
+## 🎓 About Me
+
+🤖 **Computer Science** student at **Gunadarma University** ('29)  
+🧠 Passionate about **Scalable Systems**, **Machine Learning**, and **Artificial Intelligence**  
+💼 **Software Developer Intern** at Ombudsman of the Republic of Indonesia (National Public Service Oversight Agency) 
+📱 **Content Creator** sharing my journey in tech. Also interested in education, economics, and politics
 
 ---
 
-## 📌 About Me
-- 🎓 Computer Science student at Gunadarma University ('29)  
-- 🚀 Passionate about Scalable Systems, Machine Learning, and Artificial Intelligence  
-- 💼 Software Developer at Ombudsman of the Republic of Indonesia (National Public Service Oversight Agency)  
-- 🎥 Content Creator sharing my journey in tech. Also interested in education, economics, and politics.
-
----
-
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 💻 Software Development
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+### 🌐 Software Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🤖 AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-4285F4?style=flat&logo=mediapipe&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-176B87?style=flat&logo=pydantic&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-8AA0B0?style=flat&logo=beautiful%20soup&logoColor=white)
+### 🤖 Artificial Intelligence
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 
-### 🗄 Databases & Backend
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### ⚙️ Embedded Systems
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-2C3E50?style=flat&logo=esp32&logoColor=white)
-![NodeMCU](https://img.shields.io/badge/-NodeMCU-026E00?style=flat&logo=nodemcu&logoColor=white)
+### 🗄️ Databases & Backend
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🔧 Embedded Systems
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-0066CC?style=for-the-badge&logo=nodemcu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect!
+## 📫 Let's Connect!
 
-<a href="https://www.github.com/jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.x.com/jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
-</picture>
-</a> &nbsp;
-<a href="https://www.dev.to/jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/devdotto-dark.svg" alt="devdotto" />
-</picture>
-</a> &nbsp;
-<a href="https://www.stackoverflow.com/user/jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" alt="stackoverflow" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
-<a class="margin-right: 10px" href="https://www.youtube.com/@jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="youtube" />
-</picture>
-</a> &nbsp;
-<a href="https://www.discord.com/users/jefanniel" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
-</picture>
-</a> &nbsp;
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jefanniel)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jefanniel)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jefanniel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefanniel/)
+
+</div>
+
