@@ -59,6 +59,43 @@
 ---
 
 ## 🤝 Let's Connect!
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jefanniel)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@jefanniel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefanniel)
+<a href="https://www.github.com/jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</picture>
+</a> &nbsp;
+<a href="https://www.x.com/jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+</picture>
+</a> &nbsp;
+<a href="https://www.dev.to/jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/devdotto-dark.svg" alt="devdotto" />
+</picture>
+</a> &nbsp;
+<a href="https://www.stackoverflow.com/user/jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" alt="stackoverflow" />
+</picture>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
+</picture>
+</a> &nbsp;
+<a href="https://www.instagram.com/jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
+</picture>
+</a> &nbsp;
+<a class="margin-right: 10px" href="https://www.youtube.com/@jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="youtube" />
+</picture>
+</a> &nbsp;
+<a href="https://www.discord.com/users/jefanniel" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
+</picture>
+</a> &nbsp;
