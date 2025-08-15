@@ -1,8 +1,8 @@
-# Hi, I'm Jefanniel!
+# Hi there, I'm Jefanniel!
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Computer+Science+Student+@+Gunadarma;AI+Enthusiast;Software+Developer;Content+Creator" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Computer+Science+Student+@+Gunadarma;AI+Enthusiast;Software+Engineer;Content+Creator" 
     alt="Typing SVG" 
   />
 </p>
@@ -60,6 +60,5 @@
 
 ## 🤝 Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jefanniel)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jefanniel)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@jefanniel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefanniel)
