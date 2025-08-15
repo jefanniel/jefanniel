@@ -7,7 +7,7 @@
   <br>
   
   ### 🌐 Visit My Website
-  [![Website](https://img.shields.io/badge/🚀%20jefanniel.com-39FF14?style=for-the-badge&logoColor=white)](https://jefanniel.vercel.app/)
+  [![Website](https://img.shields.io/badge/🚀%20jefanniel.com-39FF14?style=for-the-badge&logoColor=black)](https://jefanniel.vercel.app/)
 
 </div>
 
