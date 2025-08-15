@@ -1,14 +1,13 @@
 # Hi there, I'm Jefanniel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Gunadarma;AI+Enthusiast;Software+Engineer;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Gunadarma;AI+Enthusiast;Software+Engineer;Content+Creator" alt="Typing SVG" />
     
   
   <br>
-    ### 🌐 Visit My Website
   
   ### 🌐 Visit My Website
-  [![Website](https://img.shields.io/badge/🚀%20jefanniel.com-4285F4?style=for-the-badge&logoColor=white)](https://jefanniel.vercel.app/)
+  [![Website](https://img.shields.io/badge/🚀%20jefanniel.com-39FF14?style=for-the-badge&logoColor=white)](https://jefanniel.vercel.app/)
 
 </div>
 
