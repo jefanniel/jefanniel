@@ -7,7 +7,7 @@
   <br>
   
   ### 🌐 Visit My Website
-  [![Website](https://img.shields.io/badge/🚀%20jefanniel.com-39FF14?style=for-the-badge&logoColor=black)](https://jefanniel.vercel.app/)
+  [![Website](https://img.shields.io/badge/🚀%20jefanniel.com-4EA94B?style=for-the-badge&logoColor=black)](https://jefanniel.vercel.app/)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 🤖 **Computer Science** student at **Gunadarma University** ('29)  
 🧠 Passionate about **Scalable Systems**, **Machine Learning**, and **Artificial Intelligence**  
-💼 **Software Developer Intern** at Ombudsman of the Republic of Indonesia (National Public Service Oversight Agency) 
+💼 **Software Developer Intern** at Ombudsman of the Republic of Indonesia (National Public Service Oversight Agency)
 📱 **Content Creator** sharing my journey in tech. Also interested in education, economics, and politics
 
 ---
