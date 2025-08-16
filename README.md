@@ -16,9 +16,10 @@
 ## 🎓 About Me
 
 🤖 **Computer Science** student at **Gunadarma University** ('29)  
-🧠 Passionate about **Scalable Systems**, **Machine Learning**, and **Artificial Intelligence**  
-💼 **Software Developer Intern** at Ombudsman of the Republic of Indonesia (National Public Service Oversight Agency)
-📱 **Content Creator** sharing my journey in tech. Also interested in education, economics, and politics
+🧠 Passionate about **Embedded Systems**, **Machine Learning**, and **Artificial Intelligence**  
+💼 **Software Developer Intern** at Ombudsman RI (National Public Service Oversight Agency)  
+📱 **Content Creator** sharing my journey in tech  
+🌱 Interested in **education**, **economics**, and **politics**
 
 ---
 
@@ -30,7 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🌐 Software Development
+### 🌐 Web / Software
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -38,7 +39,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🤖 Artificial Intelligence
+### 🤖 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
@@ -47,14 +48,14 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases / Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 🔧 Embedded Systems
+### 🔧 Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-0066CC?style=for-the-badge&logo=nodemcu&logoColor=white)
